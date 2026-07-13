@@ -212,6 +212,9 @@ The Python workflow prepares and validates the data, then exports frontend-safe 
 
 ```text
 GroceryBasket/
+├── .github/
+│   └── workflows/
+│       └── deploy-pages.yml
 ├── analysis/
 │   ├── data/
 │   │   ├── raw/
@@ -222,31 +225,26 @@ GroceryBasket/
 │   ├── sql/
 │   ├── tests/
 │   └── requirements.txt
-│
 ├── scripts/
 │   └── export_for_web.py
-│
 ├── web/
 │   ├── public/
 │   │   └── data/
+│   │       └── grocery-prices.json
 │   ├── src/
 │   │   ├── components/
-│   │   ├── hooks/
 │   │   ├── lib/
 │   │   ├── types/
 │   │   ├── App.tsx
 │   │   ├── main.tsx
 │   │   └── index.css
+│   ├── tests/
+│   ├── index.html
 │   ├── package.json
-│   ├── vite.config.ts
-│   └── index.html
-│
-├── .github/
-│   └── workflows/
-│       └── deploy.yml
-│
-├── README.md
-└── .gitignore
+│   ├── tsconfig.json
+│   └── vite.config.ts
+├── .gitignore
+└── README.md
 ```
 
 The exact folder structure may vary slightly as the project evolves.
