@@ -1,0 +1,9 @@
+product,category,unit,basket_quantity,base_price,comparison_price,unit_change,percent_change,basket_cost_contribution
+Ground beef,Protein,lb,2,1.37,5.39,4.02,294.0,8.05
+Whole chicken,Protein,lb,3,0.97,2.0,1.03,105.4,3.08
+Bread,Pantry,lb,2,0.88,1.97,1.09,125.0,2.19
+Eggs,Protein,dozen,1,1.11,3.17,2.07,186.7,2.07
+Rice,Pantry,lb,4,0.55,1.03,0.49,89.3,1.95
+White potatoes,Produce,lb,3,0.38,0.98,0.6,157.7,1.8
+Whole milk,Dairy,gallon,1,2.62,3.98,1.36,51.9,1.36
+Bananas,Produce,lb,2,0.49,0.62,0.13,26.7,0.26

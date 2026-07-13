@@ -1,0 +1,3573 @@
+{
+  "prices": [
+    {
+      "price": 0.2099,
+      "seriesId": "APU0000701111",
+      "year": 1980
+    },
+    {
+      "price": 0.5116,
+      "seriesId": "APU0000701312",
+      "year": 1980
+    },
+    {
+      "price": 0.5088,
+      "seriesId": "APU0000702111",
+      "year": 1980
+    },
+    {
+      "price": 0.7262,
+      "seriesId": "APU0000702212",
+      "year": 1980
+    },
+    {
+      "price": 1.4647,
+      "seriesId": "APU0000704111",
+      "year": 1980
+    },
+    {
+      "price": 0.7086,
+      "seriesId": "APU0000706111",
+      "year": 1980
+    },
+    {
+      "price": 0.8438,
+      "seriesId": "APU0000708111",
+      "year": 1980
+    },
+    {
+      "price": 0.3418,
+      "seriesId": "APU0000711211",
+      "year": 1980
+    },
+    {
+      "price": 0.4522,
+      "seriesId": "APU0000712211",
+      "year": 1980
+    },
+    {
+      "price": 0.6737,
+      "seriesId": "APU0000712311",
+      "year": 1980
+    },
+    {
+      "price": 0.2242,
+      "seriesId": "APU0000701111",
+      "year": 1981
+    },
+    {
+      "price": 0.563,
+      "seriesId": "APU0000701312",
+      "year": 1981
+    },
+    {
+      "price": 0.5252,
+      "seriesId": "APU0000702111",
+      "year": 1981
+    },
+    {
+      "price": 0.7756,
+      "seriesId": "APU0000702212",
+      "year": 1981
+    },
+    {
+      "price": 1.6658,
+      "seriesId": "APU0000704111",
+      "year": 1981
+    },
+    {
+      "price": 0.7318,
+      "seriesId": "APU0000706111",
+      "year": 1981
+    },
+    {
+      "price": 0.8987,
+      "seriesId": "APU0000708111",
+      "year": 1981
+    },
+    {
+      "price": 0.362,
+      "seriesId": "APU0000711211",
+      "year": 1981
+    },
+    {
+      "price": 0.4874,
+      "seriesId": "APU0000712211",
+      "year": 1981
+    },
+    {
+      "price": 0.7698,
+      "seriesId": "APU0000712311",
+      "year": 1981
+    },
+    {
+      "price": 0.2236,
+      "seriesId": "APU0000701111",
+      "year": 1982
+    },
+    {
+      "price": 0.5048,
+      "seriesId": "APU0000701312",
+      "year": 1982
+    },
+    {
+      "price": 0.5322,
+      "seriesId": "APU0000702111",
+      "year": 1982
+    },
+    {
+      "price": 0.8164,
+      "seriesId": "APU0000702212",
+      "year": 1982
+    },
+    {
+      "price": 2.0531,
+      "seriesId": "APU0000704111",
+      "year": 1982
+    },
+    {
+      "price": 0.7136,
+      "seriesId": "APU0000706111",
+      "year": 1982
+    },
+    {
+      "price": 0.8668,
+      "seriesId": "APU0000708111",
+      "year": 1982
+    },
+    {
+      "price": 0.3538,
+      "seriesId": "APU0000711211",
+      "year": 1982
+    },
+    {
+      "price": 0.5731,
+      "seriesId": "APU0000712211",
+      "year": 1982
+    },
+    {
+      "price": 0.7387,
+      "seriesId": "APU0000712311",
+      "year": 1982
+    },
+    {
+      "price": 0.2178,
+      "seriesId": "APU0000701111",
+      "year": 1983
+    },
+    {
+      "price": 0.4732,
+      "seriesId": "APU0000701312",
+      "year": 1983
+    },
+    {
+      "price": 0.5416,
+      "seriesId": "APU0000702111",
+      "year": 1983
+    },
+    {
+      "price": 0.8427,
+      "seriesId": "APU0000702212",
+      "year": 1983
+    },
+    {
+      "price": 1.9418,
+      "seriesId": "APU0000704111",
+      "year": 1983
+    },
+    {
+      "price": 0.7247,
+      "seriesId": "APU0000706111",
+      "year": 1983
+    },
+    {
+      "price": 0.8937,
+      "seriesId": "APU0000708111",
+      "year": 1983
+    },
+    {
+      "price": 0.3858,
+      "seriesId": "APU0000711211",
+      "year": 1983
+    },
+    {
+      "price": 0.5539,
+      "seriesId": "APU0000712211",
+      "year": 1983
+    },
+    {
+      "price": 0.7845,
+      "seriesId": "APU0000712311",
+      "year": 1983
+    },
+    {
+      "price": 0.2134,
+      "seriesId": "APU0000701111",
+      "year": 1984
+    },
+    {
+      "price": 0.478,
+      "seriesId": "APU0000701312",
+      "year": 1984
+    },
+    {
+      "price": 0.7338,
+      "seriesId": "APU0000701322",
+      "year": 1984
+    },
+    {
+      "price": 0.5413,
+      "seriesId": "APU0000702111",
+      "year": 1984
+    },
+    {
+      "price": 0.8758,
+      "seriesId": "APU0000702212",
+      "year": 1984
+    },
+    {
+      "price": 1.2872,
+      "seriesId": "APU0000703112",
+      "year": 1984
+    },
+    {
+      "price": 1.8572,
+      "seriesId": "APU0000704111",
+      "year": 1984
+    },
+    {
+      "price": 0.8101,
+      "seriesId": "APU0000706111",
+      "year": 1984
+    },
+    {
+      "price": 1.0047,
+      "seriesId": "APU0000708111",
+      "year": 1984
+    },
+    {
+      "price": 3.0653,
+      "seriesId": "APU0000710212",
+      "year": 1984
+    },
+    {
+      "price": 0.3594,
+      "seriesId": "APU0000711211",
+      "year": 1984
+    },
+    {
+      "price": 0.5126,
+      "seriesId": "APU0000712211",
+      "year": 1984
+    },
+    {
+      "price": 0.8073,
+      "seriesId": "APU0000712311",
+      "year": 1984
+    },
+    {
+      "price": 0.2119,
+      "seriesId": "APU0000701111",
+      "year": 1985
+    },
+    {
+      "price": 0.4698,
+      "seriesId": "APU0000701312",
+      "year": 1985
+    },
+    {
+      "price": 0.7393,
+      "seriesId": "APU0000701322",
+      "year": 1985
+    },
+    {
+      "price": 0.5533,
+      "seriesId": "APU0000702111",
+      "year": 1985
+    },
+    {
+      "price": 0.8592,
+      "seriesId": "APU0000702212",
+      "year": 1985
+    },
+    {
+      "price": 1.2375,
+      "seriesId": "APU0000703112",
+      "year": 1985
+    },
+    {
+      "price": 1.9397,
+      "seriesId": "APU0000704111",
+      "year": 1985
+    },
+    {
+      "price": 0.7633,
+      "seriesId": "APU0000706111",
+      "year": 1985
+    },
+    {
+      "price": 0.8036,
+      "seriesId": "APU0000708111",
+      "year": 1985
+    },
+    {
+      "price": 3.0935,
+      "seriesId": "APU0000710212",
+      "year": 1985
+    },
+    {
+      "price": 0.3669,
+      "seriesId": "APU0000711211",
+      "year": 1985
+    },
+    {
+      "price": 0.5383,
+      "seriesId": "APU0000712211",
+      "year": 1985
+    },
+    {
+      "price": 0.7782,
+      "seriesId": "APU0000712311",
+      "year": 1985
+    },
+    {
+      "price": 0.2084,
+      "seriesId": "APU0000701111",
+      "year": 1986
+    },
+    {
+      "price": 0.4455,
+      "seriesId": "APU0000701312",
+      "year": 1986
+    },
+    {
+      "price": 0.7381,
+      "seriesId": "APU0000701322",
+      "year": 1986
+    },
+    {
+      "price": 0.5647,
+      "seriesId": "APU0000702111",
+      "year": 1986
+    },
+    {
+      "price": 0.8678,
+      "seriesId": "APU0000702212",
+      "year": 1986
+    },
+    {
+      "price": 1.232,
+      "seriesId": "APU0000703112",
+      "year": 1986
+    },
+    {
+      "price": 2.0818,
+      "seriesId": "APU0000704111",
+      "year": 1986
+    },
+    {
+      "price": 0.835,
+      "seriesId": "APU0000706111",
+      "year": 1986
+    },
+    {
+      "price": 0.8696,
+      "seriesId": "APU0000708111",
+      "year": 1986
+    },
+    {
+      "price": 3.0491,
+      "seriesId": "APU0000710212",
+      "year": 1986
+    },
+    {
+      "price": 0.3848,
+      "seriesId": "APU0000711211",
+      "year": 1986
+    },
+    {
+      "price": 0.5279,
+      "seriesId": "APU0000712211",
+      "year": 1986
+    },
+    {
+      "price": 0.8237,
+      "seriesId": "APU0000712311",
+      "year": 1986
+    },
+    {
+      "price": 0.2054,
+      "seriesId": "APU0000701111",
+      "year": 1987
+    },
+    {
+      "price": 0.4015,
+      "seriesId": "APU0000701312",
+      "year": 1987
+    },
+    {
+      "price": 0.7324,
+      "seriesId": "APU0000701322",
+      "year": 1987
+    },
+    {
+      "price": 0.5474,
+      "seriesId": "APU0000702111",
+      "year": 1987
+    },
+    {
+      "price": 0.8799,
+      "seriesId": "APU0000702212",
+      "year": 1987
+    },
+    {
+      "price": 1.3099,
+      "seriesId": "APU0000703112",
+      "year": 1987
+    },
+    {
+      "price": 2.1414,
+      "seriesId": "APU0000704111",
+      "year": 1987
+    },
+    {
+      "price": 0.7848,
+      "seriesId": "APU0000706111",
+      "year": 1987
+    },
+    {
+      "price": 0.7826,
+      "seriesId": "APU0000708111",
+      "year": 1987
+    },
+    {
+      "price": 3.0556,
+      "seriesId": "APU0000710212",
+      "year": 1987
+    },
+    {
+      "price": 0.2141,
+      "seriesId": "APU0000701111",
+      "year": 1988
+    },
+    {
+      "price": 0.4844,
+      "seriesId": "APU0000701312",
+      "year": 1988
+    },
+    {
+      "price": 0.8023,
+      "seriesId": "APU0000701322",
+      "year": 1988
+    },
+    {
+      "price": 0.6128,
+      "seriesId": "APU0000702111",
+      "year": 1988
+    },
+    {
+      "price": 1.3647,
+      "seriesId": "APU0000703112",
+      "year": 1988
+    },
+    {
+      "price": 1.8833,
+      "seriesId": "APU0000704111",
+      "year": 1988
+    },
+    {
+      "price": 0.8537,
+      "seriesId": "APU0000706111",
+      "year": 1988
+    },
+    {
+      "price": 0.7895,
+      "seriesId": "APU0000708111",
+      "year": 1988
+    },
+    {
+      "price": 3.1649,
+      "seriesId": "APU0000710212",
+      "year": 1988
+    },
+    {
+      "price": 0.4182,
+      "seriesId": "APU0000711211",
+      "year": 1988
+    },
+    {
+      "price": 0.2607,
+      "seriesId": "APU0000712112",
+      "year": 1988
+    },
+    {
+      "price": 0.6282,
+      "seriesId": "APU0000712211",
+      "year": 1988
+    },
+    {
+      "price": 0.8341,
+      "seriesId": "APU0000712311",
+      "year": 1988
+    },
+    {
+      "price": 0.2446,
+      "seriesId": "APU0000701111",
+      "year": 1989
+    },
+    {
+      "price": 0.4985,
+      "seriesId": "APU0000701312",
+      "year": 1989
+    },
+    {
+      "price": 0.8651,
+      "seriesId": "APU0000701322",
+      "year": 1989
+    },
+    {
+      "price": 0.6656,
+      "seriesId": "APU0000702111",
+      "year": 1989
+    },
+    {
+      "price": 1.4398,
+      "seriesId": "APU0000703112",
+      "year": 1989
+    },
+    {
+      "price": 1.7668,
+      "seriesId": "APU0000704111",
+      "year": 1989
+    },
+    {
+      "price": 0.927,
+      "seriesId": "APU0000706111",
+      "year": 1989
+    },
+    {
+      "price": 0.9978,
+      "seriesId": "APU0000708111",
+      "year": 1989
+    },
+    {
+      "price": 0.4487,
+      "seriesId": "APU0000711211",
+      "year": 1989
+    },
+    {
+      "price": 0.3417,
+      "seriesId": "APU0000712112",
+      "year": 1989
+    },
+    {
+      "price": 0.6048,
+      "seriesId": "APU0000712211",
+      "year": 1989
+    },
+    {
+      "price": 0.912,
+      "seriesId": "APU0000712311",
+      "year": 1989
+    },
+    {
+      "price": 0.2497,
+      "seriesId": "APU0000701111",
+      "year": 1990
+    },
+    {
+      "price": 0.4964,
+      "seriesId": "APU0000701312",
+      "year": 1990
+    },
+    {
+      "price": 0.8542,
+      "seriesId": "APU0000701322",
+      "year": 1990
+    },
+    {
+      "price": 0.6946,
+      "seriesId": "APU0000702111",
+      "year": 1990
+    },
+    {
+      "price": 1.5873,
+      "seriesId": "APU0000703112",
+      "year": 1990
+    },
+    {
+      "price": 2.1248,
+      "seriesId": "APU0000704111",
+      "year": 1990
+    },
+    {
+      "price": 0.8992,
+      "seriesId": "APU0000706111",
+      "year": 1990
+    },
+    {
+      "price": 1.0139,
+      "seriesId": "APU0000708111",
+      "year": 1990
+    },
+    {
+      "price": 0.4632,
+      "seriesId": "APU0000711211",
+      "year": 1990
+    },
+    {
+      "price": 0.3706,
+      "seriesId": "APU0000712112",
+      "year": 1990
+    },
+    {
+      "price": 0.5779,
+      "seriesId": "APU0000712211",
+      "year": 1990
+    },
+    {
+      "price": 1.0803,
+      "seriesId": "APU0000712311",
+      "year": 1990
+    },
+    {
+      "price": 0.2336,
+      "seriesId": "APU0000701111",
+      "year": 1991
+    },
+    {
+      "price": 0.5027,
+      "seriesId": "APU0000701312",
+      "year": 1991
+    },
+    {
+      "price": 0.868,
+      "seriesId": "APU0000701322",
+      "year": 1991
+    },
+    {
+      "price": 0.7098,
+      "seriesId": "APU0000702111",
+      "year": 1991
+    },
+    {
+      "price": 1.0689,
+      "seriesId": "APU0000702212",
+      "year": 1991
+    },
+    {
+      "price": 1.5951,
+      "seriesId": "APU0000703112",
+      "year": 1991
+    },
+    {
+      "price": 2.2197,
+      "seriesId": "APU0000704111",
+      "year": 1991
+    },
+    {
+      "price": 0.8803,
+      "seriesId": "APU0000706111",
+      "year": 1991
+    },
+    {
+      "price": 0.9893,
+      "seriesId": "APU0000708111",
+      "year": 1991
+    },
+    {
+      "price": 3.5513,
+      "seriesId": "APU0000710212",
+      "year": 1991
+    },
+    {
+      "price": 0.481,
+      "seriesId": "APU0000711211",
+      "year": 1991
+    },
+    {
+      "price": 0.3297,
+      "seriesId": "APU0000712112",
+      "year": 1991
+    },
+    {
+      "price": 0.6047,
+      "seriesId": "APU0000712211",
+      "year": 1991
+    },
+    {
+      "price": 1.0066,
+      "seriesId": "APU0000712311",
+      "year": 1991
+    },
+    {
+      "price": 0.243,
+      "seriesId": "APU0000701111",
+      "year": 1992
+    },
+    {
+      "price": 0.5279,
+      "seriesId": "APU0000701312",
+      "year": 1992
+    },
+    {
+      "price": 0.8578,
+      "seriesId": "APU0000701322",
+      "year": 1992
+    },
+    {
+      "price": 0.7498,
+      "seriesId": "APU0000702111",
+      "year": 1992
+    },
+    {
+      "price": 1.0614,
+      "seriesId": "APU0000702212",
+      "year": 1992
+    },
+    {
+      "price": 1.5415,
+      "seriesId": "APU0000703112",
+      "year": 1992
+    },
+    {
+      "price": 1.9153,
+      "seriesId": "APU0000704111",
+      "year": 1992
+    },
+    {
+      "price": 0.8693,
+      "seriesId": "APU0000706111",
+      "year": 1992
+    },
+    {
+      "price": 0.8602,
+      "seriesId": "APU0000708111",
+      "year": 1992
+    },
+    {
+      "price": 3.5698,
+      "seriesId": "APU0000710212",
+      "year": 1992
+    },
+    {
+      "price": 0.4581,
+      "seriesId": "APU0000711211",
+      "year": 1992
+    },
+    {
+      "price": 0.3045,
+      "seriesId": "APU0000712112",
+      "year": 1992
+    },
+    {
+      "price": 0.5767,
+      "seriesId": "APU0000712211",
+      "year": 1992
+    },
+    {
+      "price": 1.0942,
+      "seriesId": "APU0000712311",
+      "year": 1992
+    },
+    {
+      "price": 0.2344,
+      "seriesId": "APU0000701111",
+      "year": 1993
+    },
+    {
+      "price": 0.5122,
+      "seriesId": "APU0000701312",
+      "year": 1993
+    },
+    {
+      "price": 0.8259,
+      "seriesId": "APU0000701322",
+      "year": 1993
+    },
+    {
+      "price": 0.7521,
+      "seriesId": "APU0000702111",
+      "year": 1993
+    },
+    {
+      "price": 1.0782,
+      "seriesId": "APU0000702212",
+      "year": 1993
+    },
+    {
+      "price": 1.5692,
+      "seriesId": "APU0000703112",
+      "year": 1993
+    },
+    {
+      "price": 1.931,
+      "seriesId": "APU0000704111",
+      "year": 1993
+    },
+    {
+      "price": 0.8902,
+      "seriesId": "APU0000706111",
+      "year": 1993
+    },
+    {
+      "price": 0.9114,
+      "seriesId": "APU0000708111",
+      "year": 1993
+    },
+    {
+      "price": 3.3422,
+      "seriesId": "APU0000710212",
+      "year": 1993
+    },
+    {
+      "price": 0.4387,
+      "seriesId": "APU0000711211",
+      "year": 1993
+    },
+    {
+      "price": 0.3484,
+      "seriesId": "APU0000712112",
+      "year": 1993
+    },
+    {
+      "price": 0.6559,
+      "seriesId": "APU0000712211",
+      "year": 1993
+    },
+    {
+      "price": 1.0837,
+      "seriesId": "APU0000712311",
+      "year": 1993
+    },
+    {
+      "price": 0.2311,
+      "seriesId": "APU0000701111",
+      "year": 1994
+    },
+    {
+      "price": 0.5467,
+      "seriesId": "APU0000701312",
+      "year": 1994
+    },
+    {
+      "price": 0.8651,
+      "seriesId": "APU0000701322",
+      "year": 1994
+    },
+    {
+      "price": 0.7607,
+      "seriesId": "APU0000702111",
+      "year": 1994
+    },
+    {
+      "price": 1.1354,
+      "seriesId": "APU0000702212",
+      "year": 1994
+    },
+    {
+      "price": 1.4771,
+      "seriesId": "APU0000703112",
+      "year": 1994
+    },
+    {
+      "price": 1.9896,
+      "seriesId": "APU0000704111",
+      "year": 1994
+    },
+    {
+      "price": 0.9009,
+      "seriesId": "APU0000706111",
+      "year": 1994
+    },
+    {
+      "price": 0.8628,
+      "seriesId": "APU0000708111",
+      "year": 1994
+    },
+    {
+      "price": 3.3507,
+      "seriesId": "APU0000710212",
+      "year": 1994
+    },
+    {
+      "price": 0.4622,
+      "seriesId": "APU0000711211",
+      "year": 1994
+    },
+    {
+      "price": 0.374,
+      "seriesId": "APU0000712112",
+      "year": 1994
+    },
+    {
+      "price": 0.6077,
+      "seriesId": "APU0000712211",
+      "year": 1994
+    },
+    {
+      "price": 1.0858,
+      "seriesId": "APU0000712311",
+      "year": 1994
+    },
+    {
+      "price": 0.2454,
+      "seriesId": "APU0000701111",
+      "year": 1995
+    },
+    {
+      "price": 0.5245,
+      "seriesId": "APU0000701312",
+      "year": 1995
+    },
+    {
+      "price": 0.8607,
+      "seriesId": "APU0000701322",
+      "year": 1995
+    },
+    {
+      "price": 0.7913,
+      "seriesId": "APU0000702111",
+      "year": 1995
+    },
+    {
+      "price": 1.1476,
+      "seriesId": "APU0000702212",
+      "year": 1995
+    },
+    {
+      "price": 1.3692,
+      "seriesId": "APU0000703112",
+      "year": 1995
+    },
+    {
+      "price": 1.9857,
+      "seriesId": "APU0000704111",
+      "year": 1995
+    },
+    {
+      "price": 0.9167,
+      "seriesId": "APU0000706111",
+      "year": 1995
+    },
+    {
+      "price": 0.9245,
+      "seriesId": "APU0000708111",
+      "year": 1995
+    },
+    {
+      "price": 3.3886,
+      "seriesId": "APU0000710212",
+      "year": 1995
+    },
+    {
+      "price": 0.4897,
+      "seriesId": "APU0000711211",
+      "year": 1995
+    },
+    {
+      "price": 0.3793,
+      "seriesId": "APU0000712112",
+      "year": 1995
+    },
+    {
+      "price": 0.8013,
+      "seriesId": "APU0000712211",
+      "year": 1995
+    },
+    {
+      "price": 1.1562,
+      "seriesId": "APU0000712311",
+      "year": 1995
+    },
+    {
+      "price": 0.2877,
+      "seriesId": "APU0000701111",
+      "year": 1996
+    },
+    {
+      "price": 0.5462,
+      "seriesId": "APU0000701312",
+      "year": 1996
+    },
+    {
+      "price": 0.8646,
+      "seriesId": "APU0000701322",
+      "year": 1996
+    },
+    {
+      "price": 0.8757,
+      "seriesId": "APU0000702111",
+      "year": 1996
+    },
+    {
+      "price": 1.2528,
+      "seriesId": "APU0000702212",
+      "year": 1996
+    },
+    {
+      "price": 1.3688,
+      "seriesId": "APU0000703112",
+      "year": 1996
+    },
+    {
+      "price": 2.4729,
+      "seriesId": "APU0000704111",
+      "year": 1996
+    },
+    {
+      "price": 0.9727,
+      "seriesId": "APU0000706111",
+      "year": 1996
+    },
+    {
+      "price": 1.1063,
+      "seriesId": "APU0000708111",
+      "year": 1996
+    },
+    {
+      "price": 2.6232,
+      "seriesId": "APU0000709112",
+      "year": 1996
+    },
+    {
+      "price": 3.2481,
+      "seriesId": "APU0000710212",
+      "year": 1996
+    },
+    {
+      "price": 0.4896,
+      "seriesId": "APU0000711211",
+      "year": 1996
+    },
+    {
+      "price": 0.381,
+      "seriesId": "APU0000712112",
+      "year": 1996
+    },
+    {
+      "price": 0.6477,
+      "seriesId": "APU0000712211",
+      "year": 1996
+    },
+    {
+      "price": 1.21,
+      "seriesId": "APU0000712311",
+      "year": 1996
+    },
+    {
+      "price": 0.6942,
+      "seriesId": "APU0000714233",
+      "year": 1996
+    },
+    {
+      "price": 0.3019,
+      "seriesId": "APU0000701111",
+      "year": 1997
+    },
+    {
+      "price": 0.565,
+      "seriesId": "APU0000701312",
+      "year": 1997
+    },
+    {
+      "price": 0.8727,
+      "seriesId": "APU0000701322",
+      "year": 1997
+    },
+    {
+      "price": 0.8723,
+      "seriesId": "APU0000702111",
+      "year": 1997
+    },
+    {
+      "price": 1.2828,
+      "seriesId": "APU0000702212",
+      "year": 1997
+    },
+    {
+      "price": 1.3964,
+      "seriesId": "APU0000703112",
+      "year": 1997
+    },
+    {
+      "price": 2.6815,
+      "seriesId": "APU0000704111",
+      "year": 1997
+    },
+    {
+      "price": 1.0019,
+      "seriesId": "APU0000706111",
+      "year": 1997
+    },
+    {
+      "price": 1.0583,
+      "seriesId": "APU0000708111",
+      "year": 1997
+    },
+    {
+      "price": 2.614,
+      "seriesId": "APU0000709112",
+      "year": 1997
+    },
+    {
+      "price": 3.2197,
+      "seriesId": "APU0000710212",
+      "year": 1997
+    },
+    {
+      "price": 0.4866,
+      "seriesId": "APU0000711211",
+      "year": 1997
+    },
+    {
+      "price": 0.3556,
+      "seriesId": "APU0000712112",
+      "year": 1997
+    },
+    {
+      "price": 0.694,
+      "seriesId": "APU0000712211",
+      "year": 1997
+    },
+    {
+      "price": 1.2929,
+      "seriesId": "APU0000712311",
+      "year": 1997
+    },
+    {
+      "price": 0.7202,
+      "seriesId": "APU0000714233",
+      "year": 1997
+    },
+    {
+      "price": 0.2998,
+      "seriesId": "APU0000701111",
+      "year": 1998
+    },
+    {
+      "price": 0.5419,
+      "seriesId": "APU0000701312",
+      "year": 1998
+    },
+    {
+      "price": 0.8801,
+      "seriesId": "APU0000701322",
+      "year": 1998
+    },
+    {
+      "price": 0.8602,
+      "seriesId": "APU0000702111",
+      "year": 1998
+    },
+    {
+      "price": 1.2945,
+      "seriesId": "APU0000702212",
+      "year": 1998
+    },
+    {
+      "price": 1.4119,
+      "seriesId": "APU0000703112",
+      "year": 1998
+    },
+    {
+      "price": 2.5431,
+      "seriesId": "APU0000704111",
+      "year": 1998
+    },
+    {
+      "price": 1.0437,
+      "seriesId": "APU0000706111",
+      "year": 1998
+    },
+    {
+      "price": 1.0374,
+      "seriesId": "APU0000708111",
+      "year": 1998
+    },
+    {
+      "price": 2.7037,
+      "seriesId": "APU0000709112",
+      "year": 1998
+    },
+    {
+      "price": 3.5475,
+      "seriesId": "APU0000710212",
+      "year": 1998
+    },
+    {
+      "price": 0.4939,
+      "seriesId": "APU0000711211",
+      "year": 1998
+    },
+    {
+      "price": 0.3755,
+      "seriesId": "APU0000712112",
+      "year": 1998
+    },
+    {
+      "price": 0.7567,
+      "seriesId": "APU0000712211",
+      "year": 1998
+    },
+    {
+      "price": 1.4762,
+      "seriesId": "APU0000712311",
+      "year": 1998
+    },
+    {
+      "price": 0.69,
+      "seriesId": "APU0000714233",
+      "year": 1998
+    },
+    {
+      "price": 0.2939,
+      "seriesId": "APU0000701111",
+      "year": 1999
+    },
+    {
+      "price": 0.5368,
+      "seriesId": "APU0000701312",
+      "year": 1999
+    },
+    {
+      "price": 0.8786,
+      "seriesId": "APU0000701322",
+      "year": 1999
+    },
+    {
+      "price": 0.8871,
+      "seriesId": "APU0000702111",
+      "year": 1999
+    },
+    {
+      "price": 1.3305,
+      "seriesId": "APU0000702212",
+      "year": 1999
+    },
+    {
+      "price": 1.4534,
+      "seriesId": "APU0000703112",
+      "year": 1999
+    },
+    {
+      "price": 2.5482,
+      "seriesId": "APU0000704111",
+      "year": 1999
+    },
+    {
+      "price": 1.0559,
+      "seriesId": "APU0000706111",
+      "year": 1999
+    },
+    {
+      "price": 0.9592,
+      "seriesId": "APU0000708111",
+      "year": 1999
+    },
+    {
+      "price": 2.8428,
+      "seriesId": "APU0000709112",
+      "year": 1999
+    },
+    {
+      "price": 3.7698,
+      "seriesId": "APU0000710212",
+      "year": 1999
+    },
+    {
+      "price": 0.4908,
+      "seriesId": "APU0000711211",
+      "year": 1999
+    },
+    {
+      "price": 0.3942,
+      "seriesId": "APU0000712112",
+      "year": 1999
+    },
+    {
+      "price": 0.6744,
+      "seriesId": "APU0000712211",
+      "year": 1999
+    },
+    {
+      "price": 1.3697,
+      "seriesId": "APU0000712311",
+      "year": 1999
+    },
+    {
+      "price": 0.6964,
+      "seriesId": "APU0000714233",
+      "year": 1999
+    },
+    {
+      "price": 0.2903,
+      "seriesId": "APU0000701111",
+      "year": 2000
+    },
+    {
+      "price": 0.8622,
+      "seriesId": "APU0000701322",
+      "year": 2000
+    },
+    {
+      "price": 0.9302,
+      "seriesId": "APU0000702111",
+      "year": 2000
+    },
+    {
+      "price": 1.357,
+      "seriesId": "APU0000702212",
+      "year": 2000
+    },
+    {
+      "price": 1.5694,
+      "seriesId": "APU0000703112",
+      "year": 2000
+    },
+    {
+      "price": 3.0306,
+      "seriesId": "APU0000704111",
+      "year": 2000
+    },
+    {
+      "price": 1.0712,
+      "seriesId": "APU0000706111",
+      "year": 2000
+    },
+    {
+      "price": 0.9135,
+      "seriesId": "APU0000708111",
+      "year": 2000
+    },
+    {
+      "price": 2.7807,
+      "seriesId": "APU0000709112",
+      "year": 2000
+    },
+    {
+      "price": 3.8299,
+      "seriesId": "APU0000710212",
+      "year": 2000
+    },
+    {
+      "price": 0.501,
+      "seriesId": "APU0000711211",
+      "year": 2000
+    },
+    {
+      "price": 0.3798,
+      "seriesId": "APU0000712112",
+      "year": 2000
+    },
+    {
+      "price": 0.7359,
+      "seriesId": "APU0000712211",
+      "year": 2000
+    },
+    {
+      "price": 1.382,
+      "seriesId": "APU0000712311",
+      "year": 2000
+    },
+    {
+      "price": 0.6869,
+      "seriesId": "APU0000714233",
+      "year": 2000
+    },
+    {
+      "price": 0.3023,
+      "seriesId": "APU0000701111",
+      "year": 2001
+    },
+    {
+      "price": 0.9075,
+      "seriesId": "APU0000701322",
+      "year": 2001
+    },
+    {
+      "price": 0.9991,
+      "seriesId": "APU0000702111",
+      "year": 2001
+    },
+    {
+      "price": 1.4385,
+      "seriesId": "APU0000702212",
+      "year": 2001
+    },
+    {
+      "price": 1.7142,
+      "seriesId": "APU0000703112",
+      "year": 2001
+    },
+    {
+      "price": 3.2546,
+      "seriesId": "APU0000704111",
+      "year": 2001
+    },
+    {
+      "price": 1.1052,
+      "seriesId": "APU0000706111",
+      "year": 2001
+    },
+    {
+      "price": 0.9293,
+      "seriesId": "APU0000708111",
+      "year": 2001
+    },
+    {
+      "price": 2.8842,
+      "seriesId": "APU0000709112",
+      "year": 2001
+    },
+    {
+      "price": 4.0269,
+      "seriesId": "APU0000710212",
+      "year": 2001
+    },
+    {
+      "price": 0.5067,
+      "seriesId": "APU0000711211",
+      "year": 2001
+    },
+    {
+      "price": 0.39,
+      "seriesId": "APU0000712112",
+      "year": 2001
+    },
+    {
+      "price": 0.7928,
+      "seriesId": "APU0000712211",
+      "year": 2001
+    },
+    {
+      "price": 1.3203,
+      "seriesId": "APU0000712311",
+      "year": 2001
+    },
+    {
+      "price": 0.6872,
+      "seriesId": "APU0000714233",
+      "year": 2001
+    },
+    {
+      "price": 0.3115,
+      "seriesId": "APU0000701111",
+      "year": 2002
+    },
+    {
+      "price": 0.9184,
+      "seriesId": "APU0000701322",
+      "year": 2002
+    },
+    {
+      "price": 1.0156,
+      "seriesId": "APU0000702111",
+      "year": 2002
+    },
+    {
+      "price": 1.4604,
+      "seriesId": "APU0000702212",
+      "year": 2002
+    },
+    {
+      "price": 1.7127,
+      "seriesId": "APU0000703112",
+      "year": 2002
+    },
+    {
+      "price": 3.2362,
+      "seriesId": "APU0000704111",
+      "year": 2002
+    },
+    {
+      "price": 1.0739,
+      "seriesId": "APU0000706111",
+      "year": 2002
+    },
+    {
+      "price": 1.032,
+      "seriesId": "APU0000708111",
+      "year": 2002
+    },
+    {
+      "price": 2.7572,
+      "seriesId": "APU0000709112",
+      "year": 2002
+    },
+    {
+      "price": 4.2181,
+      "seriesId": "APU0000710212",
+      "year": 2002
+    },
+    {
+      "price": 0.5075,
+      "seriesId": "APU0000711211",
+      "year": 2002
+    },
+    {
+      "price": 0.4933,
+      "seriesId": "APU0000712112",
+      "year": 2002
+    },
+    {
+      "price": 0.8612,
+      "seriesId": "APU0000712211",
+      "year": 2002
+    },
+    {
+      "price": 1.3245,
+      "seriesId": "APU0000712311",
+      "year": 2002
+    },
+    {
+      "price": 0.7283,
+      "seriesId": "APU0000714233",
+      "year": 2002
+    },
+    {
+      "price": 0.3117,
+      "seriesId": "APU0000701111",
+      "year": 2003
+    },
+    {
+      "price": 0.4522,
+      "seriesId": "APU0000701312",
+      "year": 2003
+    },
+    {
+      "price": 0.9327,
+      "seriesId": "APU0000701322",
+      "year": 2003
+    },
+    {
+      "price": 1.0008,
+      "seriesId": "APU0000702111",
+      "year": 2003
+    },
+    {
+      "price": 1.9504,
+      "seriesId": "APU0000703112",
+      "year": 2003
+    },
+    {
+      "price": 3.1979,
+      "seriesId": "APU0000704111",
+      "year": 2003
+    },
+    {
+      "price": 1.0344,
+      "seriesId": "APU0000706111",
+      "year": 2003
+    },
+    {
+      "price": 1.2444,
+      "seriesId": "APU0000708111",
+      "year": 2003
+    },
+    {
+      "price": 2.7611,
+      "seriesId": "APU0000709112",
+      "year": 2003
+    },
+    {
+      "price": 3.9484,
+      "seriesId": "APU0000710212",
+      "year": 2003
+    },
+    {
+      "price": 0.5087,
+      "seriesId": "APU0000711211",
+      "year": 2003
+    },
+    {
+      "price": 0.4585,
+      "seriesId": "APU0000712112",
+      "year": 2003
+    },
+    {
+      "price": 0.823,
+      "seriesId": "APU0000712211",
+      "year": 2003
+    },
+    {
+      "price": 1.5091,
+      "seriesId": "APU0000712311",
+      "year": 2003
+    },
+    {
+      "price": 0.7601,
+      "seriesId": "APU0000714233",
+      "year": 2003
+    },
+    {
+      "price": 0.3026,
+      "seriesId": "APU0000701111",
+      "year": 2004
+    },
+    {
+      "price": 0.5363,
+      "seriesId": "APU0000701312",
+      "year": 2004
+    },
+    {
+      "price": 0.9465,
+      "seriesId": "APU0000701322",
+      "year": 2004
+    },
+    {
+      "price": 0.9694,
+      "seriesId": "APU0000702111",
+      "year": 2004
+    },
+    {
+      "price": 2.1592,
+      "seriesId": "APU0000703112",
+      "year": 2004
+    },
+    {
+      "price": 3.3763,
+      "seriesId": "APU0000704111",
+      "year": 2004
+    },
+    {
+      "price": 1.0696,
+      "seriesId": "APU0000706111",
+      "year": 2004
+    },
+    {
+      "price": 1.3395,
+      "seriesId": "APU0000708111",
+      "year": 2004
+    },
+    {
+      "price": 3.1559,
+      "seriesId": "APU0000709112",
+      "year": 2004
+    },
+    {
+      "price": 4.2729,
+      "seriesId": "APU0000710212",
+      "year": 2004
+    },
+    {
+      "price": 0.4952,
+      "seriesId": "APU0000711211",
+      "year": 2004
+    },
+    {
+      "price": 0.4536,
+      "seriesId": "APU0000712112",
+      "year": 2004
+    },
+    {
+      "price": 0.7978,
+      "seriesId": "APU0000712211",
+      "year": 2004
+    },
+    {
+      "price": 1.6063,
+      "seriesId": "APU0000712311",
+      "year": 2004
+    },
+    {
+      "price": 0.7674,
+      "seriesId": "APU0000714233",
+      "year": 2004
+    },
+    {
+      "price": 0.3239,
+      "seriesId": "APU0000701111",
+      "year": 2005
+    },
+    {
+      "price": 0.5541,
+      "seriesId": "APU0000701312",
+      "year": 2005
+    },
+    {
+      "price": 0.8987,
+      "seriesId": "APU0000701322",
+      "year": 2005
+    },
+    {
+      "price": 1.0403,
+      "seriesId": "APU0000702111",
+      "year": 2005
+    },
+    {
+      "price": 1.3534,
+      "seriesId": "APU0000702212",
+      "year": 2005
+    },
+    {
+      "price": 2.2964,
+      "seriesId": "APU0000703112",
+      "year": 2005
+    },
+    {
+      "price": 3.3921,
+      "seriesId": "APU0000704111",
+      "year": 2005
+    },
+    {
+      "price": 1.0557,
+      "seriesId": "APU0000706111",
+      "year": 2005
+    },
+    {
+      "price": 1.2182,
+      "seriesId": "APU0000708111",
+      "year": 2005
+    },
+    {
+      "price": 3.1868,
+      "seriesId": "APU0000709112",
+      "year": 2005
+    },
+    {
+      "price": 4.3815,
+      "seriesId": "APU0000710212",
+      "year": 2005
+    },
+    {
+      "price": 0.4922,
+      "seriesId": "APU0000711211",
+      "year": 2005
+    },
+    {
+      "price": 0.4713,
+      "seriesId": "APU0000712112",
+      "year": 2005
+    },
+    {
+      "price": 0.8702,
+      "seriesId": "APU0000712211",
+      "year": 2005
+    },
+    {
+      "price": 1.6111,
+      "seriesId": "APU0000712311",
+      "year": 2005
+    },
+    {
+      "price": 0.802,
+      "seriesId": "APU0000714233",
+      "year": 2005
+    },
+    {
+      "price": 0.3287,
+      "seriesId": "APU0000701111",
+      "year": 2006
+    },
+    {
+      "price": 0.5492,
+      "seriesId": "APU0000701312",
+      "year": 2006
+    },
+    {
+      "price": 0.8585,
+      "seriesId": "APU0000701322",
+      "year": 2006
+    },
+    {
+      "price": 1.0805,
+      "seriesId": "APU0000702111",
+      "year": 2006
+    },
+    {
+      "price": 1.4174,
+      "seriesId": "APU0000702212",
+      "year": 2006
+    },
+    {
+      "price": 2.2212,
+      "seriesId": "APU0000703112",
+      "year": 2006
+    },
+    {
+      "price": 3.4439,
+      "seriesId": "APU0000704111",
+      "year": 2006
+    },
+    {
+      "price": 1.0493,
+      "seriesId": "APU0000706111",
+      "year": 2006
+    },
+    {
+      "price": 1.3063,
+      "seriesId": "APU0000708111",
+      "year": 2006
+    },
+    {
+      "price": 3.0813,
+      "seriesId": "APU0000709112",
+      "year": 2006
+    },
+    {
+      "price": 4.2548,
+      "seriesId": "APU0000710212",
+      "year": 2006
+    },
+    {
+      "price": 0.5003,
+      "seriesId": "APU0000711211",
+      "year": 2006
+    },
+    {
+      "price": 0.5337,
+      "seriesId": "APU0000712112",
+      "year": 2006
+    },
+    {
+      "price": 0.8655,
+      "seriesId": "APU0000712211",
+      "year": 2006
+    },
+    {
+      "price": 1.7317,
+      "seriesId": "APU0000712311",
+      "year": 2006
+    },
+    {
+      "price": 0.8237,
+      "seriesId": "APU0000714233",
+      "year": 2006
+    },
+    {
+      "price": 3.2982,
+      "seriesId": "APU0000FF1101",
+      "year": 2006
+    },
+    {
+      "price": 0.3602,
+      "seriesId": "APU0000701111",
+      "year": 2007
+    },
+    {
+      "price": 0.549,
+      "seriesId": "APU0000701312",
+      "year": 2007
+    },
+    {
+      "price": 0.875,
+      "seriesId": "APU0000701322",
+      "year": 2007
+    },
+    {
+      "price": 1.2073,
+      "seriesId": "APU0000702111",
+      "year": 2007
+    },
+    {
+      "price": 1.7082,
+      "seriesId": "APU0000702212",
+      "year": 2007
+    },
+    {
+      "price": 2.2993,
+      "seriesId": "APU0000703112",
+      "year": 2007
+    },
+    {
+      "price": 3.6563,
+      "seriesId": "APU0000704111",
+      "year": 2007
+    },
+    {
+      "price": 1.1152,
+      "seriesId": "APU0000706111",
+      "year": 2007
+    },
+    {
+      "price": 1.6762,
+      "seriesId": "APU0000708111",
+      "year": 2007
+    },
+    {
+      "price": 3.5032,
+      "seriesId": "APU0000709112",
+      "year": 2007
+    },
+    {
+      "price": 4.2299,
+      "seriesId": "APU0000710212",
+      "year": 2007
+    },
+    {
+      "price": 0.5102,
+      "seriesId": "APU0000711211",
+      "year": 2007
+    },
+    {
+      "price": 0.5248,
+      "seriesId": "APU0000712112",
+      "year": 2007
+    },
+    {
+      "price": 0.9283,
+      "seriesId": "APU0000712211",
+      "year": 2007
+    },
+    {
+      "price": 1.6466,
+      "seriesId": "APU0000712311",
+      "year": 2007
+    },
+    {
+      "price": 0.9417,
+      "seriesId": "APU0000714233",
+      "year": 2007
+    },
+    {
+      "price": 3.4268,
+      "seriesId": "APU0000FF1101",
+      "year": 2007
+    },
+    {
+      "price": 0.5067,
+      "seriesId": "APU0000701111",
+      "year": 2008
+    },
+    {
+      "price": 0.7326,
+      "seriesId": "APU0000701312",
+      "year": 2008
+    },
+    {
+      "price": 1.12,
+      "seriesId": "APU0000701322",
+      "year": 2008
+    },
+    {
+      "price": 1.3664,
+      "seriesId": "APU0000702111",
+      "year": 2008
+    },
+    {
+      "price": 1.9373,
+      "seriesId": "APU0000702212",
+      "year": 2008
+    },
+    {
+      "price": 2.3433,
+      "seriesId": "APU0000703112",
+      "year": 2008
+    },
+    {
+      "price": 3.6604,
+      "seriesId": "APU0000704111",
+      "year": 2008
+    },
+    {
+      "price": 1.2069,
+      "seriesId": "APU0000706111",
+      "year": 2008
+    },
+    {
+      "price": 1.9865,
+      "seriesId": "APU0000708111",
+      "year": 2008
+    },
+    {
+      "price": 3.7953,
+      "seriesId": "APU0000709112",
+      "year": 2008
+    },
+    {
+      "price": 4.7253,
+      "seriesId": "APU0000710212",
+      "year": 2008
+    },
+    {
+      "price": 0.6093,
+      "seriesId": "APU0000711211",
+      "year": 2008
+    },
+    {
+      "price": 1.1163,
+      "seriesId": "APU0000711311",
+      "year": 2008
+    },
+    {
+      "price": 0.6309,
+      "seriesId": "APU0000712112",
+      "year": 2008
+    },
+    {
+      "price": 0.9053,
+      "seriesId": "APU0000712211",
+      "year": 2008
+    },
+    {
+      "price": 1.7441,
+      "seriesId": "APU0000712311",
+      "year": 2008
+    },
+    {
+      "price": 1.2107,
+      "seriesId": "APU0000714233",
+      "year": 2008
+    },
+    {
+      "price": 3.3997,
+      "seriesId": "APU0000FF1101",
+      "year": 2008
+    },
+    {
+      "price": 0.5011,
+      "seriesId": "APU0000701111",
+      "year": 2009
+    },
+    {
+      "price": 0.7657,
+      "seriesId": "APU0000701312",
+      "year": 2009
+    },
+    {
+      "price": 1.1643,
+      "seriesId": "APU0000701322",
+      "year": 2009
+    },
+    {
+      "price": 1.3874,
+      "seriesId": "APU0000702111",
+      "year": 2009
+    },
+    {
+      "price": 1.8807,
+      "seriesId": "APU0000702212",
+      "year": 2009
+    },
+    {
+      "price": 2.2207,
+      "seriesId": "APU0000703112",
+      "year": 2009
+    },
+    {
+      "price": 3.608,
+      "seriesId": "APU0000704111",
+      "year": 2009
+    },
+    {
+      "price": 1.2782,
+      "seriesId": "APU0000706111",
+      "year": 2009
+    },
+    {
+      "price": 1.664,
+      "seriesId": "APU0000708111",
+      "year": 2009
+    },
+    {
+      "price": 3.109,
+      "seriesId": "APU0000709112",
+      "year": 2009
+    },
+    {
+      "price": 4.6688,
+      "seriesId": "APU0000710212",
+      "year": 2009
+    },
+    {
+      "price": 0.6112,
+      "seriesId": "APU0000711211",
+      "year": 2009
+    },
+    {
+      "price": 1.0504,
+      "seriesId": "APU0000711311",
+      "year": 2009
+    },
+    {
+      "price": 0.6218,
+      "seriesId": "APU0000712112",
+      "year": 2009
+    },
+    {
+      "price": 0.9133,
+      "seriesId": "APU0000712211",
+      "year": 2009
+    },
+    {
+      "price": 1.6227,
+      "seriesId": "APU0000712311",
+      "year": 2009
+    },
+    {
+      "price": 1.3931,
+      "seriesId": "APU0000714233",
+      "year": 2009
+    },
+    {
+      "price": 3.3323,
+      "seriesId": "APU0000FF1101",
+      "year": 2009
+    },
+    {
+      "price": 0.4769,
+      "seriesId": "APU0000701111",
+      "year": 2010
+    },
+    {
+      "price": 0.7407,
+      "seriesId": "APU0000701312",
+      "year": 2010
+    },
+    {
+      "price": 1.1375,
+      "seriesId": "APU0000701322",
+      "year": 2010
+    },
+    {
+      "price": 1.3733,
+      "seriesId": "APU0000702111",
+      "year": 2010
+    },
+    {
+      "price": 1.7821,
+      "seriesId": "APU0000702212",
+      "year": 2010
+    },
+    {
+      "price": 2.3659,
+      "seriesId": "APU0000703112",
+      "year": 2010
+    },
+    {
+      "price": 4.1052,
+      "seriesId": "APU0000704111",
+      "year": 2010
+    },
+    {
+      "price": 1.2632,
+      "seriesId": "APU0000706111",
+      "year": 2010
+    },
+    {
+      "price": 1.6597,
+      "seriesId": "APU0000708111",
+      "year": 2010
+    },
+    {
+      "price": 3.2585,
+      "seriesId": "APU0000709112",
+      "year": 2010
+    },
+    {
+      "price": 4.7098,
+      "seriesId": "APU0000710212",
+      "year": 2010
+    },
+    {
+      "price": 0.5797,
+      "seriesId": "APU0000711211",
+      "year": 2010
+    },
+    {
+      "price": 1.0617,
+      "seriesId": "APU0000711311",
+      "year": 2010
+    },
+    {
+      "price": 0.577,
+      "seriesId": "APU0000712112",
+      "year": 2010
+    },
+    {
+      "price": 0.8747,
+      "seriesId": "APU0000712211",
+      "year": 2010
+    },
+    {
+      "price": 1.6924,
+      "seriesId": "APU0000712311",
+      "year": 2010
+    },
+    {
+      "price": 1.3256,
+      "seriesId": "APU0000714233",
+      "year": 2010
+    },
+    {
+      "price": 3.3036,
+      "seriesId": "APU0000FF1101",
+      "year": 2010
+    },
+    {
+      "price": 0.5181,
+      "seriesId": "APU0000701111",
+      "year": 2011
+    },
+    {
+      "price": 0.7407,
+      "seriesId": "APU0000701312",
+      "year": 2011
+    },
+    {
+      "price": 1.2421,
+      "seriesId": "APU0000701322",
+      "year": 2011
+    },
+    {
+      "price": 1.4447,
+      "seriesId": "APU0000702111",
+      "year": 2011
+    },
+    {
+      "price": 1.9604,
+      "seriesId": "APU0000702212",
+      "year": 2011
+    },
+    {
+      "price": 2.7748,
+      "seriesId": "APU0000703112",
+      "year": 2011
+    },
+    {
+      "price": 4.6285,
+      "seriesId": "APU0000704111",
+      "year": 2011
+    },
+    {
+      "price": 1.2913,
+      "seriesId": "APU0000706111",
+      "year": 2011
+    },
+    {
+      "price": 1.7695,
+      "seriesId": "APU0000708111",
+      "year": 2011
+    },
+    {
+      "price": 3.5716,
+      "seriesId": "APU0000709112",
+      "year": 2011
+    },
+    {
+      "price": 5.4188,
+      "seriesId": "APU0000710212",
+      "year": 2011
+    },
+    {
+      "price": 0.6102,
+      "seriesId": "APU0000711211",
+      "year": 2011
+    },
+    {
+      "price": 1.0958,
+      "seriesId": "APU0000711311",
+      "year": 2011
+    },
+    {
+      "price": 0.6769,
+      "seriesId": "APU0000712112",
+      "year": 2011
+    },
+    {
+      "price": 0.9888,
+      "seriesId": "APU0000712211",
+      "year": 2011
+    },
+    {
+      "price": 1.6673,
+      "seriesId": "APU0000712311",
+      "year": 2011
+    },
+    {
+      "price": 1.3556,
+      "seriesId": "APU0000714233",
+      "year": 2011
+    },
+    {
+      "price": 3.1856,
+      "seriesId": "APU0000FF1101",
+      "year": 2011
+    },
+    {
+      "price": 0.5169,
+      "seriesId": "APU0000701111",
+      "year": 2012
+    },
+    {
+      "price": 0.6968,
+      "seriesId": "APU0000701312",
+      "year": 2012
+    },
+    {
+      "price": 1.3216,
+      "seriesId": "APU0000701322",
+      "year": 2012
+    },
+    {
+      "price": 1.4177,
+      "seriesId": "APU0000702111",
+      "year": 2012
+    },
+    {
+      "price": 1.988,
+      "seriesId": "APU0000702212",
+      "year": 2012
+    },
+    {
+      "price": 4.5563,
+      "seriesId": "APU0000704111",
+      "year": 2012
+    },
+    {
+      "price": 1.4222,
+      "seriesId": "APU0000706111",
+      "year": 2012
+    },
+    {
+      "price": 1.8377,
+      "seriesId": "APU0000708111",
+      "year": 2012
+    },
+    {
+      "price": 3.4925,
+      "seriesId": "APU0000709112",
+      "year": 2012
+    },
+    {
+      "price": 5.6254,
+      "seriesId": "APU0000710212",
+      "year": 2012
+    },
+    {
+      "price": 0.6021,
+      "seriesId": "APU0000711211",
+      "year": 2012
+    },
+    {
+      "price": 1.0532,
+      "seriesId": "APU0000711311",
+      "year": 2012
+    },
+    {
+      "price": 0.6592,
+      "seriesId": "APU0000712112",
+      "year": 2012
+    },
+    {
+      "price": 0.857,
+      "seriesId": "APU0000712211",
+      "year": 2012
+    },
+    {
+      "price": 1.4566,
+      "seriesId": "APU0000712311",
+      "year": 2012
+    },
+    {
+      "price": 1.4367,
+      "seriesId": "APU0000714233",
+      "year": 2012
+    },
+    {
+      "price": 3.2403,
+      "seriesId": "APU0000FF1101",
+      "year": 2012
+    },
+    {
+      "price": 0.5216,
+      "seriesId": "APU0000701111",
+      "year": 2013
+    },
+    {
+      "price": 0.7236,
+      "seriesId": "APU0000701312",
+      "year": 2013
+    },
+    {
+      "price": 1.3048,
+      "seriesId": "APU0000701322",
+      "year": 2013
+    },
+    {
+      "price": 1.4067,
+      "seriesId": "APU0000702111",
+      "year": 2013
+    },
+    {
+      "price": 2.0417,
+      "seriesId": "APU0000702212",
+      "year": 2013
+    },
+    {
+      "price": 3.4017,
+      "seriesId": "APU0000703112",
+      "year": 2013
+    },
+    {
+      "price": 5.2862,
+      "seriesId": "APU0000704111",
+      "year": 2013
+    },
+    {
+      "price": 1.4962,
+      "seriesId": "APU0000706111",
+      "year": 2013
+    },
+    {
+      "price": 1.9095,
+      "seriesId": "APU0000708111",
+      "year": 2013
+    },
+    {
+      "price": 3.4619,
+      "seriesId": "APU0000709112",
+      "year": 2013
+    },
+    {
+      "price": 5.5575,
+      "seriesId": "APU0000710212",
+      "year": 2013
+    },
+    {
+      "price": 0.5996,
+      "seriesId": "APU0000711211",
+      "year": 2013
+    },
+    {
+      "price": 1.1508,
+      "seriesId": "APU0000711311",
+      "year": 2013
+    },
+    {
+      "price": 0.6676,
+      "seriesId": "APU0000712112",
+      "year": 2013
+    },
+    {
+      "price": 1.4197,
+      "seriesId": "APU0000714233",
+      "year": 2013
+    },
+    {
+      "price": 3.452,
+      "seriesId": "APU0000FF1101",
+      "year": 2013
+    },
+    {
+      "price": 0.5298,
+      "seriesId": "APU0000701111",
+      "year": 2014
+    },
+    {
+      "price": 0.734,
+      "seriesId": "APU0000701312",
+      "year": 2014
+    },
+    {
+      "price": 1.2829,
+      "seriesId": "APU0000701322",
+      "year": 2014
+    },
+    {
+      "price": 1.4012,
+      "seriesId": "APU0000702111",
+      "year": 2014
+    },
+    {
+      "price": 2.0344,
+      "seriesId": "APU0000702212",
+      "year": 2014
+    },
+    {
+      "price": 3.8973,
+      "seriesId": "APU0000703112",
+      "year": 2014
+    },
+    {
+      "price": 5.7762,
+      "seriesId": "APU0000704111",
+      "year": 2014
+    },
+    {
+      "price": 1.5333,
+      "seriesId": "APU0000706111",
+      "year": 2014
+    },
+    {
+      "price": 2.0185,
+      "seriesId": "APU0000708111",
+      "year": 2014
+    },
+    {
+      "price": 3.6937,
+      "seriesId": "APU0000709112",
+      "year": 2014
+    },
+    {
+      "price": 5.5427,
+      "seriesId": "APU0000710212",
+      "year": 2014
+    },
+    {
+      "price": 0.5981,
+      "seriesId": "APU0000711211",
+      "year": 2014
+    },
+    {
+      "price": 1.3189,
+      "seriesId": "APU0000711311",
+      "year": 2014
+    },
+    {
+      "price": 0.6739,
+      "seriesId": "APU0000712112",
+      "year": 2014
+    },
+    {
+      "price": 1.0528,
+      "seriesId": "APU0000712211",
+      "year": 2014
+    },
+    {
+      "price": 1.7073,
+      "seriesId": "APU0000712311",
+      "year": 2014
+    },
+    {
+      "price": 1.4744,
+      "seriesId": "APU0000714233",
+      "year": 2014
+    },
+    {
+      "price": 3.4621,
+      "seriesId": "APU0000FF1101",
+      "year": 2014
+    },
+    {
+      "price": 0.5167,
+      "seriesId": "APU0000701111",
+      "year": 2015
+    },
+    {
+      "price": 0.6854,
+      "seriesId": "APU0000701312",
+      "year": 2015
+    },
+    {
+      "price": 1.3183,
+      "seriesId": "APU0000701322",
+      "year": 2015
+    },
+    {
+      "price": 1.441,
+      "seriesId": "APU0000702111",
+      "year": 2015
+    },
+    {
+      "price": 1.9918,
+      "seriesId": "APU0000702212",
+      "year": 2015
+    },
+    {
+      "price": 4.1668,
+      "seriesId": "APU0000703112",
+      "year": 2015
+    },
+    {
+      "price": 5.4538,
+      "seriesId": "APU0000704111",
+      "year": 2015
+    },
+    {
+      "price": 1.4883,
+      "seriesId": "APU0000706111",
+      "year": 2015
+    },
+    {
+      "price": 2.4694,
+      "seriesId": "APU0000708111",
+      "year": 2015
+    },
+    {
+      "price": 3.4187,
+      "seriesId": "APU0000709112",
+      "year": 2015
+    },
+    {
+      "price": 5.3792,
+      "seriesId": "APU0000710212",
+      "year": 2015
+    },
+    {
+      "price": 0.5827,
+      "seriesId": "APU0000711211",
+      "year": 2015
+    },
+    {
+      "price": 1.3044,
+      "seriesId": "APU0000711311",
+      "year": 2015
+    },
+    {
+      "price": 0.6496,
+      "seriesId": "APU0000712112",
+      "year": 2015
+    },
+    {
+      "price": 1.1615,
+      "seriesId": "APU0000712211",
+      "year": 2015
+    },
+    {
+      "price": 1.8412,
+      "seriesId": "APU0000712311",
+      "year": 2015
+    },
+    {
+      "price": 1.4861,
+      "seriesId": "APU0000714233",
+      "year": 2015
+    },
+    {
+      "price": 3.41,
+      "seriesId": "APU0000FF1101",
+      "year": 2015
+    },
+    {
+      "price": 0.525,
+      "seriesId": "APU0000701111",
+      "year": 2016
+    },
+    {
+      "price": 0.7162,
+      "seriesId": "APU0000701312",
+      "year": 2016
+    },
+    {
+      "price": 1.3002,
+      "seriesId": "APU0000701322",
+      "year": 2016
+    },
+    {
+      "price": 1.3712,
+      "seriesId": "APU0000702111",
+      "year": 2016
+    },
+    {
+      "price": 1.9644,
+      "seriesId": "APU0000702212",
+      "year": 2016
+    },
+    {
+      "price": 3.7501,
+      "seriesId": "APU0000703112",
+      "year": 2016
+    },
+    {
+      "price": 5.4208,
+      "seriesId": "APU0000704111",
+      "year": 2016
+    },
+    {
+      "price": 1.4637,
+      "seriesId": "APU0000706111",
+      "year": 2016
+    },
+    {
+      "price": 1.6842,
+      "seriesId": "APU0000708111",
+      "year": 2016
+    },
+    {
+      "price": 3.2043,
+      "seriesId": "APU0000709112",
+      "year": 2016
+    },
+    {
+      "price": 5.2348,
+      "seriesId": "APU0000710212",
+      "year": 2016
+    },
+    {
+      "price": 0.573,
+      "seriesId": "APU0000711211",
+      "year": 2016
+    },
+    {
+      "price": 1.2459,
+      "seriesId": "APU0000711311",
+      "year": 2016
+    },
+    {
+      "price": 0.6813,
+      "seriesId": "APU0000712112",
+      "year": 2016
+    },
+    {
+      "price": 1.0636,
+      "seriesId": "APU0000712211",
+      "year": 2016
+    },
+    {
+      "price": 1.9256,
+      "seriesId": "APU0000712311",
+      "year": 2016
+    },
+    {
+      "price": 1.4123,
+      "seriesId": "APU0000714233",
+      "year": 2016
+    },
+    {
+      "price": 3.2494,
+      "seriesId": "APU0000FF1101",
+      "year": 2016
+    },
+    {
+      "price": 0.5072,
+      "seriesId": "APU0000701111",
+      "year": 2017
+    },
+    {
+      "price": 0.7212,
+      "seriesId": "APU0000701312",
+      "year": 2017
+    },
+    {
+      "price": 1.2769,
+      "seriesId": "APU0000701322",
+      "year": 2017
+    },
+    {
+      "price": 1.3326,
+      "seriesId": "APU0000702111",
+      "year": 2017
+    },
+    {
+      "price": 1.9909,
+      "seriesId": "APU0000702212",
+      "year": 2017
+    },
+    {
+      "price": 3.643,
+      "seriesId": "APU0000703112",
+      "year": 2017
+    },
+    {
+      "price": 5.7689,
+      "seriesId": "APU0000704111",
+      "year": 2017
+    },
+    {
+      "price": 1.4719,
+      "seriesId": "APU0000706111",
+      "year": 2017
+    },
+    {
+      "price": 1.4671,
+      "seriesId": "APU0000708111",
+      "year": 2017
+    },
+    {
+      "price": 3.2255,
+      "seriesId": "APU0000709112",
+      "year": 2017
+    },
+    {
+      "price": 4.8954,
+      "seriesId": "APU0000710212",
+      "year": 2017
+    },
+    {
+      "price": 0.5626,
+      "seriesId": "APU0000711211",
+      "year": 2017
+    },
+    {
+      "price": 1.3407,
+      "seriesId": "APU0000711311",
+      "year": 2017
+    },
+    {
+      "price": 0.7237,
+      "seriesId": "APU0000712112",
+      "year": 2017
+    },
+    {
+      "price": 1.0293,
+      "seriesId": "APU0000712211",
+      "year": 2017
+    },
+    {
+      "price": 1.931,
+      "seriesId": "APU0000712311",
+      "year": 2017
+    },
+    {
+      "price": 1.3575,
+      "seriesId": "APU0000714233",
+      "year": 2017
+    },
+    {
+      "price": 3.2039,
+      "seriesId": "APU0000FF1101",
+      "year": 2017
+    },
+    {
+      "price": 0.4618,
+      "seriesId": "APU0000701111",
+      "year": 2018
+    },
+    {
+      "price": 0.6936,
+      "seriesId": "APU0000701312",
+      "year": 2018
+    },
+    {
+      "price": 1.1856,
+      "seriesId": "APU0000701322",
+      "year": 2018
+    },
+    {
+      "price": 1.286,
+      "seriesId": "APU0000702111",
+      "year": 2018
+    },
+    {
+      "price": 1.9605,
+      "seriesId": "APU0000702212",
+      "year": 2018
+    },
+    {
+      "price": 3.7153,
+      "seriesId": "APU0000703112",
+      "year": 2018
+    },
+    {
+      "price": 5.4662,
+      "seriesId": "APU0000704111",
+      "year": 2018
+    },
+    {
+      "price": 1.4971,
+      "seriesId": "APU0000706111",
+      "year": 2018
+    },
+    {
+      "price": 1.7417,
+      "seriesId": "APU0000708111",
+      "year": 2018
+    },
+    {
+      "price": 2.8958,
+      "seriesId": "APU0000709112",
+      "year": 2018
+    },
+    {
+      "price": 5.135,
+      "seriesId": "APU0000710212",
+      "year": 2018
+    },
+    {
+      "price": 0.5738,
+      "seriesId": "APU0000711211",
+      "year": 2018
+    },
+    {
+      "price": 1.4128,
+      "seriesId": "APU0000711311",
+      "year": 2018
+    },
+    {
+      "price": 0.7397,
+      "seriesId": "APU0000712112",
+      "year": 2018
+    },
+    {
+      "price": 0.944,
+      "seriesId": "APU0000712211",
+      "year": 2018
+    },
+    {
+      "price": 1.9163,
+      "seriesId": "APU0000712311",
+      "year": 2018
+    },
+    {
+      "price": 1.3423,
+      "seriesId": "APU0000714233",
+      "year": 2018
+    },
+    {
+      "price": 3.0753,
+      "seriesId": "APU0000FF1101",
+      "year": 2018
+    },
+    {
+      "price": 0.4412,
+      "seriesId": "APU0000701111",
+      "year": 2019
+    },
+    {
+      "price": 0.7645,
+      "seriesId": "APU0000701312",
+      "year": 2019
+    },
+    {
+      "price": 1.2056,
+      "seriesId": "APU0000701322",
+      "year": 2019
+    },
+    {
+      "price": 1.2977,
+      "seriesId": "APU0000702111",
+      "year": 2019
+    },
+    {
+      "price": 1.9443,
+      "seriesId": "APU0000702212",
+      "year": 2019
+    },
+    {
+      "price": 3.8065,
+      "seriesId": "APU0000703112",
+      "year": 2019
+    },
+    {
+      "price": 5.6125,
+      "seriesId": "APU0000704111",
+      "year": 2019
+    },
+    {
+      "price": 1.495,
+      "seriesId": "APU0000706111",
+      "year": 2019
+    },
+    {
+      "price": 1.3958,
+      "seriesId": "APU0000708111",
+      "year": 2019
+    },
+    {
+      "price": 3.0357,
+      "seriesId": "APU0000709112",
+      "year": 2019
+    },
+    {
+      "price": 5.3077,
+      "seriesId": "APU0000710212",
+      "year": 2019
+    },
+    {
+      "price": 0.5736,
+      "seriesId": "APU0000711211",
+      "year": 2019
+    },
+    {
+      "price": 1.3667,
+      "seriesId": "APU0000711311",
+      "year": 2019
+    },
+    {
+      "price": 0.7673,
+      "seriesId": "APU0000712112",
+      "year": 2019
+    },
+    {
+      "price": 1.1843,
+      "seriesId": "APU0000712211",
+      "year": 2019
+    },
+    {
+      "price": 1.9305,
+      "seriesId": "APU0000712311",
+      "year": 2019
+    },
+    {
+      "price": 1.3442,
+      "seriesId": "APU0000714233",
+      "year": 2019
+    },
+    {
+      "price": 3.0163,
+      "seriesId": "APU0000FF1101",
+      "year": 2019
+    },
+    {
+      "price": 1.2627,
+      "seriesId": "APU0000701322",
+      "year": 2020
+    },
+    {
+      "price": 1.4517,
+      "seriesId": "APU0000702111",
+      "year": 2020
+    },
+    {
+      "price": 2.0911,
+      "seriesId": "APU0000702212",
+      "year": 2020
+    },
+    {
+      "price": 4.1154,
+      "seriesId": "APU0000703112",
+      "year": 2020
+    },
+    {
+      "price": 5.5822,
+      "seriesId": "APU0000704111",
+      "year": 2020
+    },
+    {
+      "price": 1.5057,
+      "seriesId": "APU0000708111",
+      "year": 2020
+    },
+    {
+      "price": 3.3184,
+      "seriesId": "APU0000709112",
+      "year": 2020
+    },
+    {
+      "price": 5.4963,
+      "seriesId": "APU0000710212",
+      "year": 2020
+    },
+    {
+      "price": 0.5779,
+      "seriesId": "APU0000711211",
+      "year": 2020
+    },
+    {
+      "price": 3.2231,
+      "seriesId": "APU0000FF1101",
+      "year": 2020
+    },
+    {
+      "price": 0.4037,
+      "seriesId": "APU0000701111",
+      "year": 2021
+    },
+    {
+      "price": 0.7938,
+      "seriesId": "APU0000701312",
+      "year": 2021
+    },
+    {
+      "price": 1.1792,
+      "seriesId": "APU0000701322",
+      "year": 2021
+    },
+    {
+      "price": 1.5236,
+      "seriesId": "APU0000702111",
+      "year": 2021
+    },
+    {
+      "price": 2.1338,
+      "seriesId": "APU0000702212",
+      "year": 2021
+    },
+    {
+      "price": 4.3289,
+      "seriesId": "APU0000703112",
+      "year": 2021
+    },
+    {
+      "price": 6.6382,
+      "seriesId": "APU0000704111",
+      "year": 2021
+    },
+    {
+      "price": 1.5266,
+      "seriesId": "APU0000706111",
+      "year": 2021
+    },
+    {
+      "price": 1.674,
+      "seriesId": "APU0000708111",
+      "year": 2021
+    },
+    {
+      "price": 3.5445,
+      "seriesId": "APU0000709112",
+      "year": 2021
+    },
+    {
+      "price": 5.44,
+      "seriesId": "APU0000710212",
+      "year": 2021
+    },
+    {
+      "price": 0.6001,
+      "seriesId": "APU0000711211",
+      "year": 2021
+    },
+    {
+      "price": 0.7801,
+      "seriesId": "APU0000712112",
+      "year": 2021
+    },
+    {
+      "price": 1.8491,
+      "seriesId": "APU0000712311",
+      "year": 2021
+    },
+    {
+      "price": 1.448,
+      "seriesId": "APU0000714233",
+      "year": 2021
+    },
+    {
+      "price": 3.4504,
+      "seriesId": "APU0000FF1101",
+      "year": 2021
+    },
+    {
+      "price": 0.4939,
+      "seriesId": "APU0000701111",
+      "year": 2022
+    },
+    {
+      "price": 0.913,
+      "seriesId": "APU0000701312",
+      "year": 2022
+    },
+    {
+      "price": 1.2962,
+      "seriesId": "APU0000701322",
+      "year": 2022
+    },
+    {
+      "price": 1.7002,
+      "seriesId": "APU0000702111",
+      "year": 2022
+    },
+    {
+      "price": 2.2553,
+      "seriesId": "APU0000702212",
+      "year": 2022
+    },
+    {
+      "price": 4.8101,
+      "seriesId": "APU0000703112",
+      "year": 2022
+    },
+    {
+      "price": 7.3073,
+      "seriesId": "APU0000704111",
+      "year": 2022
+    },
+    {
+      "price": 1.8007,
+      "seriesId": "APU0000706111",
+      "year": 2022
+    },
+    {
+      "price": 2.8568,
+      "seriesId": "APU0000708111",
+      "year": 2022
+    },
+    {
+      "price": 4.091,
+      "seriesId": "APU0000709112",
+      "year": 2022
+    },
+    {
+      "price": 5.7623,
+      "seriesId": "APU0000710212",
+      "year": 2022
+    },
+    {
+      "price": 0.6365,
+      "seriesId": "APU0000711211",
+      "year": 2022
+    },
+    {
+      "price": 0.9063,
+      "seriesId": "APU0000712112",
+      "year": 2022
+    },
+    {
+      "price": 1.9118,
+      "seriesId": "APU0000712311",
+      "year": 2022
+    },
+    {
+      "price": 1.6377,
+      "seriesId": "APU0000714233",
+      "year": 2022
+    },
+    {
+      "price": 4.3236,
+      "seriesId": "APU0000FF1101",
+      "year": 2022
+    },
+    {
+      "price": 0.5507,
+      "seriesId": "APU0000701111",
+      "year": 2023
+    },
+    {
+      "price": 0.9848,
+      "seriesId": "APU0000701312",
+      "year": 2023
+    },
+    {
+      "price": 1.4326,
+      "seriesId": "APU0000701322",
+      "year": 2023
+    },
+    {
+      "price": 1.9601,
+      "seriesId": "APU0000702111",
+      "year": 2023
+    },
+    {
+      "price": 2.558,
+      "seriesId": "APU0000702212",
+      "year": 2023
+    },
+    {
+      "price": 5.0197,
+      "seriesId": "APU0000703112",
+      "year": 2023
+    },
+    {
+      "price": 6.6537,
+      "seriesId": "APU0000704111",
+      "year": 2023
+    },
+    {
+      "price": 1.9142,
+      "seriesId": "APU0000706111",
+      "year": 2023
+    },
+    {
+      "price": 2.7962,
+      "seriesId": "APU0000708111",
+      "year": 2023
+    },
+    {
+      "price": 4.0274,
+      "seriesId": "APU0000709112",
+      "year": 2023
+    },
+    {
+      "price": 5.8229,
+      "seriesId": "APU0000710212",
+      "year": 2023
+    },
+    {
+      "price": 0.6304,
+      "seriesId": "APU0000711211",
+      "year": 2023
+    },
+    {
+      "price": 1.5798,
+      "seriesId": "APU0000711311",
+      "year": 2023
+    },
+    {
+      "price": 1.0046,
+      "seriesId": "APU0000712112",
+      "year": 2023
+    },
+    {
+      "price": 1.9195,
+      "seriesId": "APU0000712311",
+      "year": 2023
+    },
+    {
+      "price": 1.6731,
+      "seriesId": "APU0000714233",
+      "year": 2023
+    },
+    {
+      "price": 4.2292,
+      "seriesId": "APU0000FF1101",
+      "year": 2023
+    },
+    {
+      "price": 0.5652,
+      "seriesId": "APU0000701111",
+      "year": 2024
+    },
+    {
+      "price": 1.0342,
+      "seriesId": "APU0000701312",
+      "year": 2024
+    },
+    {
+      "price": 1.4156,
+      "seriesId": "APU0000701322",
+      "year": 2024
+    },
+    {
+      "price": 1.9704,
+      "seriesId": "APU0000702111",
+      "year": 2024
+    },
+    {
+      "price": 2.7031,
+      "seriesId": "APU0000702212",
+      "year": 2024
+    },
+    {
+      "price": 5.3929,
+      "seriesId": "APU0000703112",
+      "year": 2024
+    },
+    {
+      "price": 6.7763,
+      "seriesId": "APU0000704111",
+      "year": 2024
+    },
+    {
+      "price": 1.9984,
+      "seriesId": "APU0000706111",
+      "year": 2024
+    },
+    {
+      "price": 3.1715,
+      "seriesId": "APU0000708111",
+      "year": 2024
+    },
+    {
+      "price": 3.9839,
+      "seriesId": "APU0000709112",
+      "year": 2024
+    },
+    {
+      "price": 5.6643,
+      "seriesId": "APU0000710212",
+      "year": 2024
+    },
+    {
+      "price": 0.6202,
+      "seriesId": "APU0000711211",
+      "year": 2024
+    },
+    {
+      "price": 1.6155,
+      "seriesId": "APU0000711311",
+      "year": 2024
+    },
+    {
+      "price": 0.982,
+      "seriesId": "APU0000712112",
+      "year": 2024
+    },
+    {
+      "price": 1.592,
+      "seriesId": "APU0000712211",
+      "year": 2024
+    },
+    {
+      "price": 1.995,
+      "seriesId": "APU0000712311",
+      "year": 2024
+    },
+    {
+      "price": 1.6672,
+      "seriesId": "APU0000714233",
+      "year": 2024
+    },
+    {
+      "price": 4.0455,
+      "seriesId": "APU0000FF1101",
+      "year": 2024
+    }
+  ],
+  "products": [
+    {
+      "category": "Dairy",
+      "defaultQuantity": 1.0,
+      "definition": "Cheddar cheese, natural",
+      "id": "APU0000710212",
+      "name": "Cheddar cheese",
+      "unit": "lb"
+    },
+    {
+      "category": "Dairy",
+      "defaultQuantity": 1.0,
+      "definition": "Milk, fresh, whole, fortified",
+      "id": "APU0000709112",
+      "name": "Whole milk",
+      "unit": "gallon"
+    },
+    {
+      "category": "Pantry",
+      "defaultQuantity": 2.0,
+      "definition": "Bread, white, pan",
+      "id": "APU0000702111",
+      "name": "Bread",
+      "unit": "lb"
+    },
+    {
+      "category": "Pantry",
+      "defaultQuantity": 2.0,
+      "definition": "Beans, dried, any type",
+      "id": "APU0000714233",
+      "name": "Dry beans",
+      "unit": "lb"
+    },
+    {
+      "category": "Pantry",
+      "defaultQuantity": 5.0,
+      "definition": "Flour, white, all purpose",
+      "id": "APU0000701111",
+      "name": "Flour",
+      "unit": "lb"
+    },
+    {
+      "category": "Pantry",
+      "defaultQuantity": 4.0,
+      "definition": "Rice, white, long grain, uncooked",
+      "id": "APU0000701312",
+      "name": "Rice",
+      "unit": "lb"
+    },
+    {
+      "category": "Pantry",
+      "defaultQuantity": 2.0,
+      "definition": "Spaghetti and macaroni",
+      "id": "APU0000701322",
+      "name": "Spaghetti",
+      "unit": "lb"
+    },
+    {
+      "category": "Pantry",
+      "defaultQuantity": 2.0,
+      "definition": "Bread, whole wheat, pan",
+      "id": "APU0000702212",
+      "name": "Whole wheat bread",
+      "unit": "lb"
+    },
+    {
+      "category": "Produce",
+      "defaultQuantity": 2.0,
+      "definition": "Bananas",
+      "id": "APU0000711211",
+      "name": "Bananas",
+      "unit": "lb"
+    },
+    {
+      "category": "Produce",
+      "defaultQuantity": 1.0,
+      "definition": "Lettuce, iceberg",
+      "id": "APU0000712211",
+      "name": "Iceberg lettuce",
+      "unit": "lb"
+    },
+    {
+      "category": "Produce",
+      "defaultQuantity": 2.0,
+      "definition": "Oranges, Navel",
+      "id": "APU0000711311",
+      "name": "Navel oranges",
+      "unit": "lb"
+    },
+    {
+      "category": "Produce",
+      "defaultQuantity": 2.0,
+      "definition": "Tomatoes, field grown",
+      "id": "APU0000712311",
+      "name": "Tomatoes",
+      "unit": "lb"
+    },
+    {
+      "category": "Produce",
+      "defaultQuantity": 3.0,
+      "definition": "Potatoes, white",
+      "id": "APU0000712112",
+      "name": "White potatoes",
+      "unit": "lb"
+    },
+    {
+      "category": "Protein",
+      "defaultQuantity": 1.0,
+      "definition": "Bacon, sliced",
+      "id": "APU0000704111",
+      "name": "Bacon",
+      "unit": "lb"
+    },
+    {
+      "category": "Protein",
+      "defaultQuantity": 2.0,
+      "definition": "Chicken breast, boneless",
+      "id": "APU0000FF1101",
+      "name": "Boneless chicken breast",
+      "unit": "lb"
+    },
+    {
+      "category": "Protein",
+      "defaultQuantity": 1.0,
+      "definition": "Eggs, Grade A, large",
+      "id": "APU0000708111",
+      "name": "Eggs",
+      "unit": "dozen"
+    },
+    {
+      "category": "Protein",
+      "defaultQuantity": 2.0,
+      "definition": "Ground beef, 100% beef",
+      "id": "APU0000703112",
+      "name": "Ground beef",
+      "unit": "lb"
+    },
+    {
+      "category": "Protein",
+      "defaultQuantity": 3.0,
+      "definition": "Chicken, fresh, whole",
+      "id": "APU0000706111",
+      "name": "Whole chicken",
+      "unit": "lb"
+    }
+  ],
+  "schemaVersion": 1,
+  "years": [
+    1980,
+    1981,
+    1982,
+    1983,
+    1984,
+    1985,
+    1986,
+    1987,
+    1988,
+    1989,
+    1990,
+    1991,
+    1992,
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ]
+}

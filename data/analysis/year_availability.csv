@@ -1,0 +1,31 @@
+year,products_with_complete_observations,status
+1996,8,supported
+1997,8,supported
+1998,8,supported
+1999,8,supported
+2000,7,excluded: incomplete basket coverage
+2001,7,excluded: incomplete basket coverage
+2002,7,excluded: incomplete basket coverage
+2003,8,supported
+2004,8,supported
+2005,8,supported
+2006,8,supported
+2007,8,supported
+2008,8,supported
+2009,8,supported
+2010,8,supported
+2011,8,supported
+2012,7,excluded: incomplete basket coverage
+2013,8,supported
+2014,8,supported
+2015,8,supported
+2016,8,supported
+2017,8,supported
+2018,8,supported
+2019,8,supported
+2020,5,excluded: incomplete basket coverage
+2021,8,supported
+2022,8,supported
+2023,8,supported
+2024,8,supported
+2025,0,excluded: incomplete basket coverage
